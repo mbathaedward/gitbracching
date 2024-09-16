@@ -1,9 +1,10 @@
 # gitbracching
 
-learning git braching
+`learning git braching`
+a list ofextra commands
 
 # define terms
 
-Brachn
+`Brachn`
 
-git braching
+`git braching`
